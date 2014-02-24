@@ -1,0 +1,6 @@
+default["vagrant"]["aws_plugin"]["version"] = ""
+default["vagrant"]["cloudstack_plugin"]["version"] = ""
+default["vagrant"]["hp_plugin"]["version"] = "0.1.2"
+default["vagrant"]["digitalocean_plugin"]["version"] = ""
+default["vagrant"]["rackspace_plugin"]["version"] = "0.1.4"
+default["vagrant"]["rightscaleshim_plugin"]["version"] = "1.0.1"
